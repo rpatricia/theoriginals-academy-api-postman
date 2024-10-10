@@ -17,5 +17,5 @@ Clone o projeto:
   git clone  https://github.com/rpatricia/theoriginals-academy-api-postman.gitstman
 ```
 - [Bruna Brito]()
-- [uciano Sírio](https://github.com/lucianosirio)
+- [Luciano Sírio](https://github.com/lucianosirio)
 - [Renata](https://github.com/rpatricia?tab=repositories)
